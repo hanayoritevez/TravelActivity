@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel Application</string>
+    <string name="button">Button</string>
+    <string name="title_activity_start">StartActivity</string>
+
+    <string name="action_settings">メニュー</string>
+    <string name="action_settings2">作成</string>
+    <string name="action_settings3">診断</string>
+
+    <string name="list_description1">background</string>
+    <string name="list_description2">picture</string>
+
+</resources>
