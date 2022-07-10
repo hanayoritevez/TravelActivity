@@ -199,15 +199,11 @@ public class MainActivity4 extends AppCompatActivity {
 
                 ContentValues cv = new ContentValues();
 
-
-                LocationElement = LocationElement();
-
-
-
-
-
-                intent.putExtra("itemExplains", itemExplains);
-                intent.putExtra("itemNames", itemNames);
+//
+//                LocationElement = LocationElement();
+//
+//                intent.putExtra("itemExplains", itemExplains);
+//                intent.putExtra("itemNames", itemNames);
 
 
 
